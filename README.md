@@ -56,7 +56,7 @@ Enter customer details and instantly predict churn likelihood.
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/yourusername/customer_churn_prediction.git
+git clone https://github.com/Nsikan56/customer_churn_prediction.git
 ```
 
 2. **Install dependencies**
