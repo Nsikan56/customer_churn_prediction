@@ -46,7 +46,7 @@ End-to-end machine learning project that predicts customer churn for a telecom c
 
 > Try the model in action via the Streamlit app:
 
-[👉 Launch Churn Predictor App](https://your-app-name.streamlit.app)
+[👉 Launch Churn Predictor App](https://nsikan56-customer-churn-prediction-streamlit-app-lqrnfe.streamlit.app)
 
 Enter customer details and instantly predict churn likelihood.
 
