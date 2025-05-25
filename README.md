@@ -98,7 +98,6 @@ Customer-Churn-Prediction/
 ---
 
 ## 📌 Next Steps (Optional)
-- Deploy a Streamlit app to demo real-time churn prediction
 - Add grid search or Optuna for hyperparameter tuning
 - Compare SHAP with LIME for local explainability
 
