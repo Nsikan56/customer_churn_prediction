@@ -6,7 +6,7 @@ import joblib
 # Load model
 model = joblib.load("churn_model.pkl")
 
-st.title("📉 Telecom Customer Churn Predictor")
+st.title("Telecom Customer Churn Predictor")
 st.markdown("Enter customer details below to predict churn likelihood.")
 
 # Input form
